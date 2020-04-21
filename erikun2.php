@@ -1,7 +1,7 @@
 
 <?php
 ob_start();
-define('API_KEY', 'token');
+define('API_KEY', '1113931933:AAGU5lzv6f7dHFjGfcGJ5DgmIGBH5hJKJsk');
 //tokenni yozing
 $admin = "ttttt"; 
 //ozingiz id raqamizni yozing
